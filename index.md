@@ -2,7 +2,7 @@
 Software Engineering, Programming and System Integration.
 
 ### Summary
-Engineering and Software professional having experience in Linux, Python, Django, PostgreSQL, Networking, Databases and Web Frameworks.
+Engineering and Software professional having experience in Linux, Python, Django, PostgreSQL, Networking, Databases, Containers, Virtual Machines and Web Frameworks.
 
 ### Membership
 Professional Engineers of Ontario (P.Eng)
@@ -13,7 +13,6 @@ Bachelor of Engineering with major in Electronics & Instrumentation from Annamal
 ### Current Employer 
 Horiba, Burlington, Ontario, Canada, Since Dec-2005.<br>
 Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)<br>
-HORIBA is a global supplier of Linux based Test Automation Systems to Automotive Companies.  These systems acquire data in real time, controls the sequence of operation in the test cell, communicate with different devices, records and relay data to next tier. 
 
 ### Experience: 
 
@@ -30,7 +29,7 @@ Use Django Web Framework for developing web applications. My personal web-apps d
 - Apple Store:  [https://itunes.apple.com/ca/developer/pal-subbiah/id1254859219](https://itunes.apple.com/ca/developer/pal-subbiah/id1254859219)
 
 #### Cloud Development 
-Work with AWS & Amazon LightSail for creating instances in Ubuntu. 
+Work with Digital Ocean & AWS for creating virtual private servers in Ubuntu. 
 
 #### Web 
 HTML5, JavaScript, WebSockets: Works with HTML5 and JavaScript for developing applications. Used WebSocket for duplex communication between server and client. This application accesses the real-time database and display data in a browser just like a desktop application. 
@@ -46,6 +45,9 @@ Configure and implement Remote-IO, Sensors, Instruments and Gateways in differen
 
 #### Virtual Machines 
 Use VirtualBox to run different machines to simulate Customer Installations and test them.
+
+#### Containers
+Use Docker for containerization of applications.
 
 #### Remote Access
 Work with customer systems remotely using different technologies like SSH, SCP, Telnet, FTP, RDP, VPN etc.
