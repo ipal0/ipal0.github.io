@@ -57,11 +57,10 @@ Do project coordination with customers and other vendors. Takes responsibility o
 
 #### CI Tools / Repositories 
 Experienced with Git and Mercurial for continuous integration. My public repositories are located at:
-- BitBucket [https://bitbucket.org/ipal0](https://bitbucket.org/ipal0)
 - GitHub [https://github.com/ipal0](https://github.com/ipal0)
 
 #### Personal Blog
-[http://ipal0.blogspot.ca](http://ipal0.blogspot.ca)
+[https://www.ipal0.win](https://www.ipal0.win)
 
 #### LinkedIn Profile 
-[https://ca.linkedin.com/in/palsubbiah](https://ca.linkedin.com/in/palsubbiah)
+[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
