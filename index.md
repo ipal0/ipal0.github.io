@@ -24,9 +24,8 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 - Developed PyPi package for modbus: [https://pypi.python.org/pypi/modbus](https://pypi.python.org/pypi/modbus)
 
 #### Django Web Framework 
-Use Django Web Framework for developing web applications. My personal web-apps developed with Django are listed in both Google and Apple Stores:
+Use Django Web Framework for developing web applications. My personal web-apps developed with Django are listed in both Google Play Store:
 - Google Play: [https://play.google.com/store/search?q=pub:Pal&c=apps](https://play.google.com/store/search?q=pub:Pal&c=apps)
-- Apple Store:  [https://itunes.apple.com/ca/developer/pal-subbiah/id1254859219](https://itunes.apple.com/ca/developer/pal-subbiah/id1254859219)
 
 #### Cloud Development 
 Work with Digital Ocean & AWS for creating virtual private servers in Ubuntu. 
