@@ -39,7 +39,7 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 - Do system administration locally and remotely.
 
 #### Other Programming Languages
-- Work with C when the application time is critical. Also develop Python-C extensions.
+Work with C when the application time is critical. Also develop Python-C extensions.
 
 #### System Integration 
 Work with different systems and integrate them through network using different technologies.
@@ -51,16 +51,16 @@ Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Loc
 Use Docker for containerization of applications.
 
 #### Remote Access
-- Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
+Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
 
 #### Project Coordination
-- Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
+Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
 
 #### Revision Control
-- Use GitHub for continuous integration. My public repositories are located at https://github.com/ipal0
+Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
 
 #### Personal Site/Blog
-- http://www.ipal0.win
+[http://www.ipal0.win](http://www.ipal0.win)
 
 #### LinkedIn Profile
-- https://ca.linkedin.com/in/ipal0
+[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
