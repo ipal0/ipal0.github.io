@@ -7,59 +7,60 @@ Engineering and Software professional having experience in Linux, Python, Django
 ### Membership
 Professional Engineers of Ontario (P.Eng)
 
-### Education 
-Bachelor of Engineering with major in Electronics & Instrumentation from Annamalai University, India graduated in 1992.
-
-### Current Employer 
-Horiba, Burlington, Ontario, Canada, Since Dec-2005.<br>
-Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)<br>
+### Current Employer
+Position: Applications Engineer - Software 
+Horiba, Burlington, Ontario, Canada
+Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
 
 ### Experience: 
 
-#### Python Programming 
-- Use Python Data Science Packages like Numpy, Matplotlib, Pandas, Scikit Learn, h5py for data analysis, conversions, and plotting.
-- Developed a Python API to interact with the Test Automation System's real-time database written in C. 
-- Use Python to develop drivers that communicate with several devices and sensors.
-- Use Python Scripts for automating, testing, and reporting. 
-- Developed PyPi package for modbus: [https://pypi.python.org/pypi/modbus](https://pypi.python.org/pypi/modbus)
+#### Full Stack Web Development:
+- Server side development using Python, Django, Apache, Linux
+- Database side development using PostgreSQL, IBM-DB2, FireStore
+- Client side development using HTML, JavaScript etc.
+- Host applications in Cloud environment like Google Cloud Platform GCP, Amazon Web Services AWS and IBM
+- Personal Web-apps are listed in Google Play Store - Link: [Apps from Google Play Store for Android](https://play.google.com/store/search?q=pub%3APal&c=apps)
 
-#### Django Web Framework 
-Use Django Web Framework for developing web applications. My personal web-apps developed with Django are listed in both Google Play Store:
-- Google Play: [https://play.google.com/store/search?q=pub:Pal&c=apps](https://play.google.com/store/search?q=pub:Pal&c=apps)
-
-#### Cloud Development 
-Work with Digital Ocean & AWS for creating virtual private servers in Ubuntu. 
-
-#### Web 
-HTML5, JavaScript, WebSockets: Works with HTML5 and JavaScript for developing applications. Used WebSocket for duplex communication between server and client. This application accesses the real-time database and display data in a browser just like a desktop application. 
+#### Python Programming
+- Web Frameworks: Use Django Web Framework for developing web applications. Use Jinja2 for templates. Also know Flask.
+- API Development: Developed a C-Python API to interact with Horiba Test System’s Real-Time Database.
+- Python PyPi: Have several projects under PyPi for Firebase-FireStore, IBM- DB2, PostgreSQL, Sqlite3 and Modbus. Link: [https://pypi.org/user/ipal0/](https://pypi.org/user/ipal0/)
+- Python Unit Testing: Use Selenium WebDriver for unit testing of web- apps.
+- Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
+- Python Device Drivers: Use Python to develop device drivers that communicate with several third party systems in TCP/IP and other protocols.
 
 #### Databases 
-Work with RDBMS like PostgreSQL, Large Datasets like HDF5 and NoSQL databases like Redis, MongoDB. Also work with real-time database for data acquisition and control. 
+- Work with SQL RDBMS like PostgreSQL, IBM-DB2 etc
+- NoSQL databases like Firebase-FireStore, DynamoDB, MongoDB etc.
 
-#### Operating Systems 
-Work with different operating systems like Linux (Debian-Ubuntu, OpenSuse), UNIX (HPUX) and Windows. Very conversant with Linux commands, scripting, tools and utilities and do system administration locally and remotely.  
+#### Linux OS:
+- Work with different Linux distributions like Ubuntu, OpenSuse etc.
+- Very conversant with Linux commands, bash scripting, Linux tools and utilities.
+- Do system administration locally and remotely.
 
-#### Networking Protocols 
-Configure and implement Remote-IO, Sensors, Instruments and Gateways in different protocols like TCP/IP, MODBUS, CANBUS etc. Use WireShark to analyze network protocols.
+#### Other Programming Languages
+- Work with C when the application time is critical. Also develop Python-C extensions.
+
+#### System Integration 
+Work with different systems and integrate them through network using different technologies.
 
 #### Virtual Machines 
-Use VirtualBox to run different machines to simulate Customer Installations and test them.
+Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
 
 #### Containers
 Use Docker for containerization of applications.
 
 #### Remote Access
-Work with customer systems remotely using different technologies like SSH, SCP, Telnet, FTP, RDP, VPN etc.
+- Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
 
-#### Project Coordination 
-Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
+#### Project Coordination
+- Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
 
-#### CI Tools / Repositories 
-Experienced with Git and Mercurial for continuous integration. My public repositories are located at:
-- GitHub [https://github.com/ipal0](https://github.com/ipal0)
+#### Revision Control
+- Use GitHub for continuous integration. My public repositories are located at https://github.com/ipal0
 
-#### Personal Blog
-[https://www.ipal0.win](https://www.ipal0.win)
+#### Personal Site/Blog
+- http://www.ipal0.win
 
-#### LinkedIn Profile 
-[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
+#### LinkedIn Profile
+- https://ca.linkedin.com/in/ipal0
