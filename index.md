@@ -1,24 +1,24 @@
 ### Objective 
-Software Engineering, Programming and System Integration.
+  Software Engineering, Programming, Automation and System Integration.
 
 ### Summary
-Engineering and Software professional having experience in Linux, Python, Django, PostgreSQL, Networking, Databases, Containers, Virtual Machines and Web Frameworks.
+  Engineering and Software professional having experience in Linux, Python, Databases, Web Frameworks, Containers, Virtual Machines, Networking Protocols etc.
 
 ### Membership
-Professional Engineers of Ontario (P.Eng)
+  Professional Engineers of Ontario (P.Eng)
 
-### Current Employer
-Position: Applications Engineer - Software 
-Horiba, Burlington, Ontario, Canada
-Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
+### Current Employement
+  Software Applications Engineer
+  Horiba, Burlington, Ontario, Canada
+  Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
 
 ### Experience: 
 
 #### Full Stack Web Development:
 - Server side development using Python, Django, Apache, Linux
-- Database side development using PostgreSQL, IBM-DB2, FireStore
+- Database side development using PostgreSQL, MongoDB, IBM-DB2, FireStore
 - Client side development using HTML, JavaScript etc.
-- Host applications in Cloud environment like Google Cloud Platform GCP, Amazon Web Services AWS and IBM
+- Host applications in Cloud environment like Google Cloud Platform GCP, Amazon Web Services AWS and IBM Cloud
 - Personal Web-apps are listed in Google Play Store - Link: [Apps from Google Play Store for Android](https://play.google.com/store/search?q=pub%3APal&c=apps)
 
 #### Python Programming
@@ -31,7 +31,7 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 
 #### Databases 
 - Work with SQL RDBMS like PostgreSQL, IBM-DB2 etc
-- NoSQL databases like Firebase-FireStore, DynamoDB, MongoDB etc.
+- NoSQL databases like MongoDB, Firebase-FireStore, DynamoDB, CouchDB.
 
 #### Linux OS:
 - Work with different Linux distributions like Ubuntu, OpenSuse etc.
@@ -39,28 +39,28 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 - Do system administration locally and remotely.
 
 #### Other Programming Languages
-Work with C when the application time is critical. Also develop Python-C extensions.
+  Work with C when the application time is critical. Also develop Python-C extensions.
 
 #### System Integration 
-Work with different systems and integrate them through network using different technologies.
+  Work with different systems and integrate them through network using different technologies.
 
 #### Virtual Machines 
-Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
+  Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
 
 #### Containers
-Use Docker for containerization of applications.
+  Use Docker for containerization of applications.
 
 #### Remote Access
-Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
+  Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
 
 #### Project Coordination
-Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
+  Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
 
 #### Revision Control
-Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
+  Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
 
 #### Personal Site/Blog
-[http://www.ipal0.win](http://www.ipal0.win)
+  [http://www.ipal0.win](http://www.ipal0.win)
 
 #### LinkedIn Profile
-[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
+  [https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
