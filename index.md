@@ -1,16 +1,16 @@
 ### Objective 
-  Software Engineering, Programming, Automation and System Integration.
+Software Engineering, Programming, Automation and System Integration.
 
 ### Summary
-  Engineering and Software professional having experience in Linux, Python, Databases, Web Frameworks, Containers, Virtual Machines, Networking Protocols etc.
+Engineering and Software professional having experience in Linux, Python, Databases, Web Frameworks, Containers, Virtual Machines, Networking Protocols etc.
 
 ### Membership
-  Professional Engineers of Ontario (P.Eng)
+Professional Engineers of Ontario (P.Eng)
 
 ### Current Employement
-  Software Applications Engineer
-  Horiba, Burlington, Ontario, Canada
-  Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
+Software Applications Engineer
+Horiba, Burlington, Ontario, Canada
+Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
 
 ### Experience: 
 
@@ -39,28 +39,28 @@
 - Do system administration locally and remotely.
 
 #### Other Programming Languages
-  Work with C when the application time is critical. Also develop Python-C extensions.
+Work with C when the application time is critical. Also develop Python-C extensions.
 
 #### System Integration 
-  Work with different systems and integrate them through network using different technologies.
+Work with different systems and integrate them through network using different technologies.
 
 #### Virtual Machines 
-  Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
+Use VMware vSphere, VirtualBox to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
 
 #### Containers
-  Use Docker for containerization of applications.
+Use Docker for containerization of applications.
 
 #### Remote Access
-  Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
+Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
 
 #### Project Coordination
-  Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
+Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
 
 #### Revision Control
-  Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
+Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
 
 #### Personal Site/Blog
-  [http://www.ipal0.win](http://www.ipal0.win)
+[http://www.ipal0.win](http://www.ipal0.win)
 
 #### LinkedIn Profile
-  [https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
+[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
