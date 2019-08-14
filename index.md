@@ -1,5 +1,5 @@
 ### Objective 
-Software Engineering, Development, Automation and Integration.
+Software Engineering - Development, Automation and Integration.
 
 ### Summary
 Engineering and Software professional having experience in Linux, Python, Databases, Web Frameworks, Containers, Virtual Machines, Networking Protocols etc.
@@ -8,9 +8,8 @@ Engineering and Software professional having experience in Linux, Python, Databa
 Professional Engineers of Ontario (P.Eng)
 
 ### Current Employement
-Software Applications Engineer
-Horiba, Burlington, Ontario, Canada
-Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horiba.com/us/en/automotive-test-systems/)
+Software Applications Engineer, Horiba Canada
+Website: [http://www.horiba.com](http://www.horiba.com)
 
 ### Experience: 
 
@@ -28,10 +27,9 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 #### Python Programming
 - Web Frameworks: Use Django Web Framework for developing web applications. Use Jinja2 for templates. Also know Flask.
 - API Development: Developed a C-Python API to interact with Horiba Test System’s Real-Time Database.
-- Python PyPi: Have several projects under PyPi for Firebase-FireStore, IBM- DB2, PostgreSQL, Sqlite3 and Modbus. Link: [https://pypi.org/user/ipal0/](https://pypi.org/user/ipal0/)
-- Python Unit Testing: Use Selenium WebDriver for unit testing of web- apps.
+- Python PyPi: Developed several open source modules for python and published under PyPi for Firebase-FireStore, IBM-DB2, PostgreSQL, Sqlite3 and Modbus.  Link: [https://pypi.org/user/ipal0/] (https://pypi.org/user/ipal0)
+- Python Unit Testing: Use Selenium WebDriver for  unit testing of web-apps.
 - Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
-- Python Device Drivers: Use Python to develop device drivers that communicate with several third party systems in TCP/IP and other protocols.
 
 #### Databases 
 - Work with SQL RDBMS like PostgreSQL, IBM-DB2 etc.
@@ -39,8 +37,9 @@ Website: [http://www.horiba.com/us/en/automotive-test-systems/](http://www.horib
 
 #### Linux OS:
 - Work with different Linux distributions like Ubuntu, Debian, OpenSuse, Fedora etc.
-- Very conversant with Linux commands, bash scripting, Linux tools and utilities.
-- Do system administration locally and remotely.
+- Very conversant with bash scripting and linux commands.
+- Use Linux tools and utilities like vi, nmap, dig, netstat, top, sed, awk, grep, find, curl etc.
+- Do system administration locally and remotely using SSH.
 
 #### Other Programming Languages
 Work with C when the application time is critical. Also develop Python-C extensions.
