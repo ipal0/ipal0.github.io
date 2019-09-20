@@ -16,7 +16,7 @@ Website: [http://www.horiba.com](http://www.horiba.com)
 #### Cloud Platforms:
 - Google Cloud Platform GCP – Host applications in Cloud environment using App-Engine, Compute-Engine, Cloud-Run, Firestore-Firebase, Cloud-Functions, Storage, BigQuery, Logging, Pub-Sub, Cloud-Shell etc.
 - IBM-Cloud: Host applications using DB2, Cloudant, Cloud-Foundry-Apps, Functions, RabbitMQ, SQL-Query etc.
-- Also work with other cloud providers like Amazon Web Services AWS, Digital Ocean etc.
+- Host appliations in Heroku and Amazon Web Services - AWS.
 
 #### Full Stack Web Development:
 - Server side development using Linux, Python, Django, Apache, Gunicorn
@@ -63,7 +63,7 @@ Do project coordination with customers and other vendors. Takes responsibility o
 Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
 
 #### Personal Site/Blog
-[http://blog.ipal0.win](http://blog.ipal0.win)
+[https://simpleblogsite.com/pal](https://simpleblogsite.com/pal)
 
 #### LinkedIn Profile
 [https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
