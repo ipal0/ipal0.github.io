@@ -2,17 +2,12 @@
 Software Engineering - Development, Automation and Integration.
 
 ### Summary
-Engineering and Software professional having experience in Linux, Python, Databases, Web Frameworks, Containers, Virtual Machines, Networking Protocols etc.
+Senior Software Engineer having experience in Linux, Python, Databases, Web Frameworks, API, Containers, Virtual Machines, Networking Protocols etc.
 
 ### Membership
 Professional Engineers of Ontario (P.Eng)
 
-### Current Employement
-Software Applications Engineer, Horiba Canada
-Website: [http://www.horiba.com](http://www.horiba.com)
-
 ### Experience: 
-
 #### Cloud Platforms:
 - Google Cloud Platform GCP – Host applications in Cloud environment using App-Engine, Compute-Engine, Cloud-Run, Firestore-Firebase, Cloud-Functions, Storage, BigQuery, Logging, Pub-Sub, Cloud-Shell etc.
 - IBM-Cloud: Host applications using DB2, Cloudant, Cloud-Foundry-Apps, Functions, RabbitMQ, SQL-Query etc.
@@ -32,7 +27,7 @@ Website: [http://www.horiba.com](http://www.horiba.com)
 - Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
 
 #### Databases 
-- Work with SQL RDBMS like PostgreSQL, IBM-DB2 etc.
+- Work with SQL RDBMS like PostgreSQL, Oracle, IBM-DB2 etc.
 - NoSQL databases like MongoDB, IBM-Cloudant, Firebase-FireStore, DynamoDB etc.
 
 #### Linux OS:
