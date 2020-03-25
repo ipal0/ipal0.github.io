@@ -1,9 +1,6 @@
 ### Summary 
 Senior Software Engineer in Full Stack Design & Development and DevOps Automation
 
-### Membership
-Professional Engineers of Ontario (P.Eng)
-
 ### Full Stack Web Development: 
 Server side development using Python, Django, Apache, Nginx, Daphne etc. Use advanced technologies like ASGI, Server Sent Events with Django-Channels for getting real-time data from server.
 
