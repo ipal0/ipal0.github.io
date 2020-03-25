@@ -1,64 +1,60 @@
-### Objective 
-Software Engineering - Development, Automation and Integration.
-
-### Summary
-Senior Software Engineer having experience in Linux, Python, Databases, Web Frameworks, API, Containers, Virtual Machines, Networking Protocols etc.
+### Summary 
+Senior Software Engineer in Full Stack Design & Development and DevOps Automation
 
 ### Membership
 Professional Engineers of Ontario (P.Eng)
 
-### Experience: 
-#### Cloud Platforms:
-- Google Cloud Platform GCP – Host applications in Cloud environment using App-Engine, Compute-Engine, Cloud-Run, Firestore-Firebase, Cloud-Functions, Storage, BigQuery, Logging, Pub-Sub, Cloud-Shell etc.
-- IBM-Cloud: Host applications using DB2, Cloudant, Cloud-Foundry-Apps, Functions, RabbitMQ, SQL-Query etc.
-- Host appliations in Heroku and Amazon Web Services - AWS.
+### Full Stack Web Development: 
+• Server side development using Python, Django, Apache, Nginx, Daphne etc. Use advanced technologies like ASGI, Server Sent Events with Django-Channels for getting real-time data from server.
+•	Database side development using PostgreSQL, MongoDB, Oracle-Autonomous-DB, IBM-DB2, GCP-FireStore, IBM-Cloudant
+•	Client side development using Vue.js Framework, JavaScript, HTML & CSS. Also use JavaScript-Async and Fetch API.
+•	Personal Web-apps are listed in Google Play Store - Link: Apps from Google Play Store for Android
+•	Personally developed a blogging platform using Linux, Django, Vue.js and Apache. Visit “https://simpleblogsite.com”.
 
-#### Full Stack Web Development:
-- Server side development using Linux, Python, Django, Apache, Gunicorn
-- Database side development using PostgreSQL, MongoDB, Cloudant, IBM-DB2, FireStore
-- Client side development using HTML, JavaScript etc.
-- Personal Web-apps are listed in Google Play Store - Link: [Apps from Google Play Store for Android](https://play.google.com/store/search?q=pub%3APal&c=apps)
+### Python Programming:
+•	Web Frameworks: Use Django Web Framework for developing web applications. Use Jinja2 for templates.  Also know Flask.
+•	API Development: Developed a C-Python API to interact with Horiba Test System’s Real-Time Database.
+•	Python PyPi: Developed several open source modules for python and published under PyPi for PostgreSQL, Firebase-FireStore, IBM-DB2, Sqlite3 and Modbus.  Link: https://pypi.org/user/ipal0/
+•	Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
+•	Python Unit Testing: Use Selenium WebDriver for  unit testing of web-apps.
+•	Python Programs & Tools: Use python for writing programs and tools for data extraction, database operations, cron functions and reporting. 
 
-#### Python Programming
-- Web Frameworks: Use Django Web Framework for developing web applications. Use Jinja2 for templates. Also know Flask.
-- API Development: Developed a C-Python API to interact with Horiba Test System’s Real-Time Database.
-- Python PyPi: Developed several open source modules for python and published under PyPi for Firebase-FireStore, IBM-DB2, PostgreSQL, Sqlite3 and Modbus.  Link: [https://pypi.org/user/ipal0/] (https://pypi.org/user/ipal0)
-- Python Unit Testing: Use Selenium WebDriver for  unit testing of web-apps.
-- Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
+### Linux OS: 
+•	Work with different Linux distributions like Red-Hat, Ubuntu, Debian, Open-Suse etc. 
+•	Very conversant with bash scripting and linux commands.
+•	Use Linux tools and utilities like vi, nmap, dig, netstat, top, sed, awk, grep, find, curl etc.
+•	Do system administration locally and remotely using SSH.
 
-#### Databases 
-- Work with SQL RDBMS like PostgreSQL, Oracle, IBM-DB2 etc.
-- NoSQL databases like MongoDB, IBM-Cloudant, Firebase-FireStore, DynamoDB etc.
+### Databases:  
+•	RDBMS like PostgreSQL, MySQL, Oracle-Autonomous-DB, IBM-DB2 etc.
+•	NoSQL databases like MongoDB, GCP-FireStore, IBM-Cloudant etc.
 
-#### Linux OS:
-- Work with different Linux distributions like Ubuntu, Debian, OpenSuse, Fedora etc.
-- Very conversant with bash scripting and linux commands.
-- Use Linux tools and utilities like vi, nmap, dig, netstat, top, sed, awk, grep, find, curl etc.
-- Do system administration locally and remotely using SSH.
+### Cloud Platforms: 
+•	Google Cloud Platform – Host applications in Cloud environment using App-Engine, Compute-Engine, Cloud-Run, Cloud-Functions, FireStore, Storage, BigQuery, Logging, Pub-Sub, Cloud-Shell etc.
+•	IBM-Cloud: Host applications using DB2, Cloudant, Fuctions, Cloud-Foundry-Apps, RabbitMQ, SQL-Query etc. 
+•	Oracle Cloud: Host applications with Virtual Machines, Oracle Autonomous Linux, Oracle Autonomous Transaction Database.
+•	Others: Also used AWS, Digital-Ocean etc.
 
-#### Other Programming Languages
-Work with C when the application time is critical. Also develop Python-C extensions.
+### Other Programming Languages: 
+Work with C when the application time is critical. Also develop Python-C extensions. 
 
-#### System Integration 
-Work with different systems and integrate them through network using different technologies.
+### Virtual Machines: 
+Use VirtualBox, VMware vSphere to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
 
-#### Virtual Machines 
-Use VirtualBox, VMware vSphere to run different virtual machines in Cloud or Local for simulating Customer Installations and test them.
+### Containers & Orchestration: 
+Use Docker for containerization of applications. Use Kubernetes for Container deployment. Use Argo for workflow management.
 
-#### Containers
-Use Docker for containerization of applications.
-
-#### Remote Access
+### Remote Access: 
 Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
 
-#### Project Coordination
-Do project coordination with customers and other vendors. Takes responsibility of the project from design to implementation.
+### Project Consulting: 
+Do consulting for projects, coordinate with customers and vendors. Takes total responsibility of the project from design to implementation.
 
-#### Revision Control
-Use GitHub for continuous integration. My public repositories are located at [https://github.com/ipal0](https://github.com/ipal0) 
+### Revision Control: 
+Use Git for continuous integration. My public repositories are located at https://github.com/ipal0
 
-#### Personal Site/Blog
-[https://simpleblogsite.com/pal](https://simpleblogsite.com/pal)
+### Personal Site/Blog: 
+https://simpleblogsite.com/pal , https://ipal0.win
 
-#### LinkedIn Profile
-[https://ca.linkedin.com/in/ipal0](https://ca.linkedin.com/in/ipal0)
+### LinkedIn Profile: 
+https://ca.linkedin.com/in/ipal0
