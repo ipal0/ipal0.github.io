@@ -54,7 +54,7 @@ Work with customer systems remotely using different technologies like SSH, SCP, 
 Use Git for continuous integration. My public repositories are located at https://github.com/ipal0
 
 ## Personal Site/Blog: 
-https://simpleblogsite.com/pal , https://ipal0.win
+https://ipal0.win , https://ipal0.win/blog
 
 ## LinkedIn Profile: 
 https://ca.linkedin.com/in/ipal0
