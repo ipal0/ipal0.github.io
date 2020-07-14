@@ -14,7 +14,7 @@ Use Vue.js Framework, JavaScript,HTML & CSS. Also use JavaScript-Async and Fetch
 ### JavaScript Framework 
 Use Vue.js framework for front end development.
 
-## JavaScript technologies: 
+### JavaScript technologies: 
 Use Server Side Events for dynamic data, Async for asynchronous data, Fetch-Api for getting data, Plotly.js for charts.
 
 ### Python Data Science Libraries
