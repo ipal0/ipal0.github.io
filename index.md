@@ -1,68 +1,56 @@
 ### Summary 
-Senior Software Engineer in Full Stack Design & Development and DevOps Automation
+Senior Software Engineer in Design & Development of Web Applications. Involved in Full Stack Development, Deployment, Integration and Automation.
 
-### Full Stack Web Development: 
-Server side development using Python, Django, Apache, Nginx, Daphne etc. Use advanced technologies like ASGI, Server Sent Events with Django-Channels for getting real-time data from server.
+## Server side development:
+Use Python, Django, Apache, Nginx, Daphne, Uvicorn, Gunicorn etc. Use advanced technologies like ASGI, Server Sent Events with Django-Channels for real-time data
+acquisition from server.
 
-Database side development using PostgreSQL, MongoDB, Oracle-Autonomous-DB, IBM-DB2, GCP-FireStore, IBM-Cloudant
+## Database side development
+Use PostgreSQL, MongoDB, MySQL,Oracle-Autonomous-DB, IBM-DB2
 
-Client side development using Vue.js Framework, JavaScript, HTML & CSS. Also use JavaScript-Async and Fetch API.
+## Client side development 
+Use Vue.js Framework, JavaScript,HTML & CSS. Also use JavaScript-Async and Fetch API.
 
-Personal Web-apps are listed in Google Play Store - Link: Apps from Google Play Store for Android
+## JavaScript Framework 
+Use Vue.js framework for front end development.
 
-Personally developed a blogging platform using Linux, Django, Vue.js and Apache. Visit “https://simpleblogsite.com”.
+## JavaScript technologies: 
+Use Server Side Events for dynamic data, Async for asynchronous data, Fetch-Api for getting data, Plotly.js for charts.
 
-### Python Programming:
-Web Frameworks: Use Django Web Framework for developing web applications. Use Jinja2 for templates.  Also know Flask.
+## Python Data Science Libraries
+Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
 
-API Development: Developed a C-Python API to interact with Horiba Test System’s Real-Time Database.
+## API Development
+Develop a C-Python API to interact withproprietary databases.
 
-Python PyPi: Developed several open source modules for python and published under PyPi for PostgreSQL, Firebase-FireStore, IBM-DB2, Sqlite3 and Modbus.  Link: https://pypi.org/user/ipal0/
+## Python PyPi 
+Developed several open source modules for python and published under PyPi for PostgreSQL, Firebase-FireStore, IBM-DB2, Sqlite3 and Modbus. Link:https://pypi.org/user/ipal0/
 
-Python Data Science Libraries: Use Numpy, Pandas, Matplotlib, Pygal, Scikit-Learn, h5py for data analysis, conversions, plotting, predictions etc.
+## Python Unit Testing 
+Use Selenium WebDriver for unit testing of web-apps.
 
-Python Unit Testing: Use Selenium WebDriver for  unit testing of web-apps.
+## Linux 
+Work with different Linux distributions like Fedora, RedHat, Ubuntu, Debian, Oracle-Linux, Open-Suse etc.
 
-Python Programs & Tools: Use python for writing programs and tools for data extraction, database operations, cron functions and reporting. 
+## Linux Tools 
+Very conversant with bash scripting and linux commands. Use Linux tools like vi, nmap, dig, netstat, top, sed, awk, grep, find, curl etc.
 
-### Linux OS: 
-Work with different Linux distributions like Red-Hat, Ubuntu, Debian, Open-Suse etc. 
-Very conversant with bash scripting and linux commands.
+## Cloud 
+Use several cloud providers like GCP, Oracle, IBM, AWS.
 
-Use Linux tools and utilities like vi, nmap, dig, netstat, top, sed, awk, grep, find, curl etc.
+## Integrated Development Environment 
+Use VS-Code, PyCharm, Spyder. To work with remote server directly, use Vim or VS-Code extensively. To access Linux machines from Windows-10 use WSL & MobaXterm.
 
-Do system administration locally and remotely using SSH.
+## Virtual Machines 
+Use VirtualBox, VMware vSphere to run different virtual machines to simulate and test Applications.
 
-### Databases:  
-RDBMS like PostgreSQL, MySQL, Oracle-Autonomous-DB, IBM-DB2 etc.
+## Containers & Orchestration 
+Use Docker for containerization of Applications. Use Kubernetes for Container deployment. Use Argo for workflow management.
 
-NoSQL databases like MongoDB, GCP-FireStore, IBM-Cloudant etc.
-
-### Cloud Platforms: 
-Google Cloud Platform – Host applications in Cloud environment using App-Engine, Compute-Engine, Cloud-Run, Cloud-Functions, FireStore, Storage, BigQuery, Logging, Pub-Sub, Cloud-Shell etc.
-
-IBM-Cloud: Host applications using DB2, Cloudant, Fuctions, Cloud-Foundry-Apps, RabbitMQ, SQL-Query etc. 
-
-Oracle Cloud: Host applications with Virtual Machines, Oracle Autonomous Linux, Oracle Autonomous Transaction Database.
-
-•	Others: Also used AWS, Digital-Ocean etc.
-
-### Other Programming Languages: 
-Work with C when the application time is critical. Also develop Python-C extensions. 
-
-### Virtual Machines: 
-Use VirtualBox, VMware vSphere to run different virtual machines in Cloud or Local to simulate Customer Installations and test them.
-
-### Containers & Orchestration: 
-Use Docker for containerization of applications. Use Kubernetes for Container deployment. Use Argo for workflow management.
-
-### Remote Access: 
+## Remote Administration 
 Work with customer systems remotely using different technologies like SSH, SCP, TeamViewer, FTP, RDP, VPN etc.
-
-### Project Consulting: 
-Do consulting for projects, coordinate with customers and vendors. Takes total responsibility of the project from design to implementation.
-
-### Revision Control: 
+ 
+## Revision Control 
 Use Git for continuous integration. My public repositories are located at https://github.com/ipal0
 
 ### Personal Site/Blog: 
